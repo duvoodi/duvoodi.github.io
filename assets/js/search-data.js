@@ -90,6 +90,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/math/";
         
       },
+    },{id: "post-code",
+      
+        title: "Code",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/code/";
+        
+      },
     },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
