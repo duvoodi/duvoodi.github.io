@@ -157,7 +157,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-checking-if-a-number-is-even-or-odd",
           title: 'Checking if a Number is Even or Odd',
-          description: "Determine whether a number is even or odd.",
+          description: "Determine whether a number is even or odd",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
