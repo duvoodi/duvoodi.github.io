@@ -147,7 +147,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-a-simple-calculator",
           title: 'A Simple Calculator',
-          description: "Perform basic addition and subtraction of two numbers.",
+          description: "Perform basic addition and subtraction of two numbers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-finding-the-largest-of-three-numbers",
