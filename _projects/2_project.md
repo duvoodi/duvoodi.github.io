@@ -11,8 +11,6 @@ related_publications: true
 tags: `#comparison`, `#largest_number`, `#C`
 
 
-
-‌
 **Introduction**  
 
 This project determines the largest of three numbers entered by the user.
