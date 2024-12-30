@@ -5,7 +5,7 @@ tags: even, odd, C
 description: Determine whether a number is even or odd.
 img: assets/img/p.jpg
 importance: 1
-category: Programing
+category: fun
 related_publications: true
 ---
 
