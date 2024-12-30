@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-summation-series-calculation-in-c",
+            },{id: "post-visual-studio-code-setup",
+      
+        title: "Visual Studio Code Setup",
+      
+      description: "A simple visual representation of setting up a coding environment.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/vscode/";
+        
+      },
+    },{id: "post-summation-series-calculation-in-c",
       
         title: "Summation Series Calculation in C",
       
@@ -99,17 +110,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/math/";
-        
-      },
-    },{id: "post-vscode",
-      
-        title: "Vscode",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/vscode/";
         
       },
     },{id: "post-a-post-with-image-galleries",
