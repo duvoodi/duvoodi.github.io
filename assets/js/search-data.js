@@ -90,17 +90,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/vscode/";
         
       },
-    },{id: "post-a-series-in-mathematics",
-      
-        title: "a Series in Mathematics",
-      
-      description: "Exploring a simple series with mathematical approach.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/math/";
-        
-      },
     },{id: "post-summation-series-calculation-in-c",
       
         title: "Summation Series Calculation in C",
@@ -110,6 +99,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/code/";
+        
+      },
+    },{id: "post-a-series-in-mathematics",
+      
+        title: "a Series in Mathematics",
+      
+      description: "Exploring a simple series with mathematical approach.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/math/";
         
       },
     },{id: "post-a-post-with-image-galleries",
