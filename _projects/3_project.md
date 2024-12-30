@@ -10,8 +10,7 @@ related_publications: true
 ---
 tags: `#even`, `#odd`, `#C`
 
-
-
+‌
 **Introduction**
 
 This project checks whether a given number is even or odd.
