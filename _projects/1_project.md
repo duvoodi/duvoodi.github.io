@@ -9,39 +9,44 @@ category: Programing
 related_publications: true
 ---
 
-**Introduction**
+**Introduction**  
 
-This project determines the largest of three numbers entered by the user.
+This project demonstrates a simple calculator in C that can perform addition and subtraction of two numbers.
 
-**Code**
+**Code** 
 
-```C
+```c
 #include <stdio.h>
 
 int main() {
-    int num1, num2, num3, largest;
+    int num1, num2, choice, result;
 
-    printf("Enter three numbers: ");
-    scanf("%d %d %d", &num1, &num2, &num3);
+    printf("Enter first number: ");
+    scanf("%d", &num1);
 
-    if (num1 >= num2 && num1 >= num3) {
-        largest = num1;
-    } else if (num2 >= num1 && num2 >= num3) {
-        largest = num2;
+    printf("Enter second number: ");
+    scanf("%d", &num2);
+
+    printf("Choose an operation: 1 for addition, 2 for subtraction: ");
+    scanf("%d", &choice);
+
+    if (choice == 1) {
+        result = num1 + num2;
+        printf("The result of addition is: %d\n", result);
+    } else if (choice == 2) {
+        result = num1 - num2;
+        printf("The result of subtraction is: %d\n", result);
     } else {
-        largest = num3;
+        printf("Invalid choice.\n");
     }
-
-    printf("The largest number is: %d\n", largest);
 
     return 0;
 }
 ```
 
-**Explanation**
+**Explanation**  
 
-+ The program accepts three numbers as input.
-+ It uses conditional statements to compare the three numbers.
-+ The largest number is identified and displayed.
-
-
+1. The program accepts two numbers as input.  
+2. It prompts the user to choose an operation: addition (1) or subtraction (2).  
+3. Depending on the user's choice, the program calculates the result and prints it.  
+4. If the choice is invalid, an error message is displayed.
