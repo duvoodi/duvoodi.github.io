@@ -18,4 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a computer engineering student at Iran University of Science and Technology. Passionate about technology and problem-solving, I aim to enhance my skills in software development and artificial intelligence. My academic journey focuses on gaining expertise in programming, algorithms, and innovative computing solutions.
+Hi, I’m Amir Mohammad Davoodi, a passionate *Computer Engineering* student at *Iran University of Science and Technology*. My academic journey has been shaped by a keen interest in *software development* and *machine learning*.
+
+I enjoy exploring the world of programming, solving complex problems, and building innovative solutions. My skill set includes:
+Proficiency in *Python* and *C++*
+Experience with *web development (HTML, CSS)*
+Mastering touch *typing*
+etc.
+
+In my free time, I like to work on personal projects, read about the latest tech trends, and collaborate with others on exciting ideas.
+
+Feel free to reach out to me through the contact methods listed below and check out my GitHub for more details about my works.
+
+
