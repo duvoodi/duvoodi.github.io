@@ -1,0 +1,22 @@
+
+---
+
+layout: post  
+title: a Series in Mathematics  
+date: 2024-12-30  10:00:00-0000
+description: Exploring a simple series with mathematical approach.  
+tags: mathematics, summation, series
+categories: sample-posts
+thumbnail: assets/img/math.jpg
+
+
+---
+
+In this post, we explore a simple summation series. Below is the summation formula:
+
+
+$$
+\sum_{n=1}^{N} n^2 = \frac{N(N+1)(2N+1)}{6} 
+$$
+
+This summation represents the sum of the first N square numbers.
