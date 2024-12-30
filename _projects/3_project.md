@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Checking if a Number is Even or Odd
-tags: even, odd, C
 description: Determine whether a number is even or odd
+tags: even, odd, C
 img: assets/img/p.jpg
 importance: 1
 category: fun
 related_publications: true
 ---
+tags: `#even`, `#odd`, `#C`
+
 
 **Introduction**
 
