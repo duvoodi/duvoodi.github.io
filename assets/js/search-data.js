@@ -513,7 +513,7 @@ ninja.data = [{
         title: 'telegram',
         section: 'Socials',
         handler: () => {
-          window.open("https://telegram.me/\@duvoodi", "_blank");
+          window.open("https://telegram.me/duvoodi", "_blank");
         },
       },{
       id: 'light-theme',
