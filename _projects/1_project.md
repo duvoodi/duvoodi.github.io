@@ -5,7 +5,7 @@ tags: calculator, arithmetic, C
 description: Perform basic addition and subtraction of two numbers.
 img: assets/img/p.jpg
 importance: 1
-category: Programing
+category: work
 related_publications: true
 ---
 
