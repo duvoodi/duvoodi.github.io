@@ -152,7 +152,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-finding-the-largest-of-three-numbers",
           title: 'Finding the Largest of Three Numbers',
-          description: "Identify the largest among three user-provided numbers.",
+          description: "Identify the largest among three user-provided numbers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-checking-if-a-number-is-even-or-odd",
