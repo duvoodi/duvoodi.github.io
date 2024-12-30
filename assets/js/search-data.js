@@ -90,17 +90,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/vscode/";
         
       },
-    },{id: "post-summation-series-calculation-in-c",
-      
-        title: "Summation Series Calculation in C",
-      
-      description: "Implementing a summation series calculation using loops in C.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/code/";
-        
-      },
     },{id: "post-a-series-in-mathematics",
       
         title: "a Series in Mathematics",
@@ -110,6 +99,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/math/";
+        
+      },
+    },{id: "post-summation-series-calculation-in-c",
+      
+        title: "Summation Series Calculation in C",
+      
+      description: "Implementing a summation series calculation using loops in C.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/code/";
         
       },
     },{id: "post-a-post-with-image-galleries",
