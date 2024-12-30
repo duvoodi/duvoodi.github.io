@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-vscode",
+            },{id: "post-a-series-in-mathematics",
+      
+        title: "a Series in Mathematics",
+      
+      description: "Exploring a simple series with mathematical approach.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/math/";
+        
+      },
+    },{id: "post-vscode",
       
         title: "Vscode",
       
@@ -88,17 +99,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/vscode/";
-        
-      },
-    },{id: "post-math",
-      
-        title: "Math",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/math/";
         
       },
     },{id: "post-code",
