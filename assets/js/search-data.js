@@ -103,7 +103,7 @@ ninja.data = [{
       },
     },{id: "post-a-series-in-mathematics",
       
-        title: "a Series in Mathematics",
+        title: "A Series in Mathematics",
       
       description: "Exploring a simple series with mathematical approach.",
       section: "Posts",
