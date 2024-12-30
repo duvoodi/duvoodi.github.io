@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Finding the Largest of Three Numbers
-tags: comparison, largest number, C
 description: Identify the largest among three user-provided numbers
+tags: comparison, largest number, C
 img: assets/img/p.jpg
 importance: 1
 category: fun
 related_publications: true
 ---
+tags: `#comparison`, `#largest_number`, `#C`
+
 
 **Introduction**  
 
