@@ -2,7 +2,7 @@
 layout: page
 title: A Simple Calculator
 tags: calculator, arithmetic, C 
-description: Perform basic addition and subtraction of two numbers.
+description: Perform basic addition and subtraction of two numbers
 img: assets/img/p.jpg
 importance: 1
 category: work
