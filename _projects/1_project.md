@@ -8,6 +8,8 @@ importance: 1
 category: work
 related_publications: true
 ---
+tags: `calculator`, arithmetic, C
+
 
 **Introduction**  
 
